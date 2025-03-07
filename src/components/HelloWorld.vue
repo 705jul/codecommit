@@ -80,7 +80,7 @@
         </a>
       </li>
     </ul>
-    <h1> My Second Realse! </h1>
+    <h1> My Third Realse! </h1>
   </div>
 </template>
 
@@ -89,7 +89,7 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: 'Welcome to My Soldesk Vue.js App'
+      msg: 'Welcome to My Soldesk Vue.js App - V1'
     }
   }
 }
