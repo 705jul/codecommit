@@ -89,7 +89,7 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: 'Welcome to My Soldesk Vue.js App - V1'
+      msg: 'Welcome to My Soldesk Vue.js App - V2'
     }
   }
 }
